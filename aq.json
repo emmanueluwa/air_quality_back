@@ -1,0 +1,1821 @@
+{
+  "meta": {
+    "name": "openaq-api",
+    "license": "",
+    "website": "/",
+    "page": 1,
+    "limit": 100,
+    "found": ">100"
+  },
+  "results": [
+    {
+      "locationId": 1638531,
+      "location": "N/A",
+      "parameter": "pm25",
+      "value": 11.1,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 32.552794, "longitude": -117.047286 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1477633,
+      "location": "Oroville Mobile",
+      "parameter": "pm25",
+      "value": 1.4,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 48.93829, "longitude": -119.43797 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1461244,
+      "location": "Moorestown-Map",
+      "parameter": "temperature",
+      "value": 24.14958731333415,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "c",
+      "coordinates": { "latitude": 39.962521, "longitude": -74.949837 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1377907,
+      "location": "Columbus Baker Stree",
+      "parameter": "pm10",
+      "value": 24,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 32.4274, "longitude": -84.9457 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1371119,
+      "location": "CAP - Prince's Grant, KZN, ZA. ",
+      "parameter": "temperature",
+      "value": 24.33263905843099,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T20:00:00+02:00"
+      },
+      "unit": "c",
+      "coordinates": { "latitude": -29.339544, "longitude": 31.374692 },
+      "country": "ZA",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1315444,
+      "location": "Sylvan Lane, Monona, WI",
+      "parameter": "temperature",
+      "value": 30.53333330154419,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T13:00:00-05:00"
+      },
+      "unit": "c",
+      "coordinates": {
+        "latitude": 43.05265934349248,
+        "longitude": -89.32969288189814
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 62655,
+      "location": "UNC Charlotte McEniry2",
+      "parameter": "um050",
+      "value": 0,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 35.307365, "longitude": -80.72999 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 269064,
+      "location": "Federspiel Park",
+      "parameter": "um050",
+      "value": 0.0014285714285714286,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 38.5992, "longitude": -121.29284 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 693070,
+      "location": "Mojave - Pat Ave",
+      "parameter": "pm25",
+      "value": 2.5,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 35.04944, "longitude": -118.18892999999998 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 370158,
+      "location": "GR0045A",
+      "parameter": "pm10",
+      "value": 28,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T21:00:00+03:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 40.739842, "longitude": 22.876231 },
+      "country": "GR",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 356092,
+      "location": "Toledo NE Hwy20 & NW",
+      "parameter": "pm25",
+      "value": 1.8,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 44.624399, "longitude": -123.940064 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 4598,
+      "location": "FI00208",
+      "parameter": "pm10",
+      "value": 7.093343,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T21:00:00+03:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": {
+        "latitude": 60.3135960714999,
+        "longitude": 24.6894769317978
+      },
+      "country": "FI",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 676,
+      "location": "Estaci�n CICEG",
+      "parameter": "pm25",
+      "value": 2.1,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T12:00:00-06:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 21.101789, "longitude": -101.6347 },
+      "country": "MX",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 230820,
+      "location": "Merced-M St",
+      "parameter": "pm10",
+      "value": 51,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 37.30833, "longitude": -120.480361 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 288307,
+      "location": "Visalia - W Ashland",
+      "parameter": "o3",
+      "value": 0.043,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "ppm",
+      "coordinates": { "latitude": 36.30815, "longitude": -119.31289999999998 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 227059,
+      "location": "Greenwich - Tunnel Avenue",
+      "parameter": "no2",
+      "value": 17.3,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T19:00:00+01:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 51.495057, "longitude": 0.0041074676 },
+      "country": "GB",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 225301,
+      "location": "Portland Lincoln Hig",
+      "parameter": "pm25",
+      "value": 1.9,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 45.5187, "longitude": -122.6881 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 223829,
+      "location": "WeymouthFR",
+      "parameter": "pm25",
+      "value": 7.8,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 42.241229, "longitude": -70.963346 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 221401,
+      "location": "BV",
+      "parameter": "o3",
+      "value": 0.027,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T12:00:00-06:00"
+      },
+      "unit": "ppm",
+      "coordinates": {
+        "latitude": 40.897999,
+        "longitude": -111.88549800000001
+      },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 73512,
+      "location": "Whittell High School",
+      "parameter": "um100",
+      "value": 0,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 39.013657, "longitude": -119.942696 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1594972,
+      "location": "water wheel",
+      "parameter": "um003",
+      "value": 3.230357142857143,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T12:00:00-06:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 42.929993, "longitude": -112.54003 },
+      "country": "NO",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1573174,
+      "location": "CleanAIRE NC: Merrick Moore 1",
+      "parameter": "um005",
+      "value": 5.998275862068965,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 36.003716, "longitude": -78.85354 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1573174,
+      "location": "CleanAIRE NC: Merrick Moore 1",
+      "parameter": "um003",
+      "value": 20.805862068965517,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 36.003716, "longitude": -78.85354 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1573174,
+      "location": "CleanAIRE NC: Merrick Moore 1",
+      "parameter": "um050",
+      "value": 0.05931034482758624,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 36.003716, "longitude": -78.85354 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1538855,
+      "location": "Pitcher Canyon",
+      "parameter": "um010",
+      "value": 0.11310344827586209,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 47.374218, "longitude": -120.333115 },
+      "country": "NO",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1512419,
+      "location": "SLV Charter School",
+      "parameter": "voc",
+      "value": 71.5090909090909,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "iaq",
+      "coordinates": { "latitude": 37.08396, "longitude": -122.07474 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1512419,
+      "location": "SLV Charter School",
+      "parameter": "humidity",
+      "value": 37.54545454545455,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 37.08396, "longitude": -122.07474 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1512419,
+      "location": "SLV Charter School",
+      "parameter": "pm1",
+      "value": 3.8454545454545452,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 37.08396, "longitude": -122.07474 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1489122,
+      "location": "Elk Mtn",
+      "parameter": "um003",
+      "value": 0.8789999999999999,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 43.623047, "longitude": -123.54409 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1489122,
+      "location": "Elk Mtn",
+      "parameter": "temperature",
+      "value": 67.43333333333334,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "f",
+      "coordinates": { "latitude": 43.623047, "longitude": -123.54409 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1489122,
+      "location": "Elk Mtn",
+      "parameter": "um050",
+      "value": 0,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 43.623047, "longitude": -123.54409 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1489122,
+      "location": "Elk Mtn",
+      "parameter": "um025",
+      "value": 0.0003333333333333333,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 43.623047, "longitude": -123.54409 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1489121,
+      "location": "Elmwood Chorley",
+      "parameter": "um010",
+      "value": 0.32642857142857146,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T19:00:00+01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 53.66058, "longitude": -2.641736 },
+      "country": "GB",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1489121,
+      "location": "Elmwood Chorley",
+      "parameter": "humidity",
+      "value": 59.92857142857143,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T19:00:00+01:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 53.66058, "longitude": -2.641736 },
+      "country": "GB",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1489122,
+      "location": "Elk Mtn",
+      "parameter": "pressure",
+      "value": 992.8940000000003,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": 43.623047, "longitude": -123.54409 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1489121,
+      "location": "Elmwood Chorley",
+      "parameter": "um050",
+      "value": 0.03892857142857144,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T19:00:00+01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 53.66058, "longitude": -2.641736 },
+      "country": "GB",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 234234,
+      "location": "3 miles up Alderpoint Rd",
+      "parameter": "um050",
+      "value": 0,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 40.110043, "longitude": -123.75904 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1263569,
+      "location": "home",
+      "parameter": "um050",
+      "value": 0.0023076923076923075,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 39.09708, "longitude": -84.48963 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1263569,
+      "location": "home",
+      "parameter": "voc",
+      "value": 64.37692307692308,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "iaq",
+      "coordinates": { "latitude": 39.09708, "longitude": -84.48963 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1235061,
+      "location": "Fox Mine",
+      "parameter": "um025",
+      "value": 0.0058823529411764705,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T13:00:00-05:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 56.623714, "longitude": -101.6351 },
+      "country": "CA",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1215930,
+      "location": "長崎市大黒町３－１",
+      "parameter": "nox",
+      "value": 0.003,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-04T03:00:00+09:00"
+      },
+      "unit": "ppm",
+      "coordinates": { "latitude": 32.748333, "longitude": 129.874167 },
+      "country": "JP",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 1214921,
+      "location": "大津市石山寺３－１１－２０",
+      "parameter": "pm25",
+      "value": 9,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-04T03:00:00+09:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 34.955833, "longitude": 135.908889 },
+      "country": "JP",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 1214773,
+      "location": "名古屋市中川区元中野町２－１１",
+      "parameter": "no",
+      "value": 0,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-04T03:00:00+09:00"
+      },
+      "unit": "ppm",
+      "coordinates": { "latitude": 35.134444, "longitude": 136.883333 },
+      "country": "JP",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 1215323,
+      "location": "日田市城町１－１－１０",
+      "parameter": "so2",
+      "value": 0.001,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-04T03:00:00+09:00"
+      },
+      "unit": "ppm",
+      "coordinates": { "latitude": 33.316667, "longitude": 130.933333 },
+      "country": "JP",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 1215392,
+      "location": "杵島郡白石町大字福田2371番地",
+      "parameter": "so2",
+      "value": 0.001,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-04T03:00:00+09:00"
+      },
+      "unit": "ppm",
+      "coordinates": { "latitude": 33.184722, "longitude": 130.149444 },
+      "country": "JP",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 1214944,
+      "location": "大阪市北区西天満２－７－９",
+      "parameter": "nox",
+      "value": 0.018,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-04T03:00:00+09:00"
+      },
+      "unit": "ppm",
+      "coordinates": { "latitude": 34.694167, "longitude": 135.504167 },
+      "country": "JP",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Governmental Organization",
+      "sensorType": "reference grade"
+    },
+    {
+      "locationId": 1171212,
+      "location": "Oakridge Estates",
+      "parameter": "pm25",
+      "value": 10,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T13:00:00-05:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 43.037342, "longitude": -88.22142 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1171212,
+      "location": "Oakridge Estates",
+      "parameter": "pm1",
+      "value": 8.163636363636364,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T13:00:00-05:00"
+      },
+      "unit": "µg/m³",
+      "coordinates": { "latitude": 43.037342, "longitude": -88.22142 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1171397,
+      "location": "Leidos Field at Ripken Stadium",
+      "parameter": "voc",
+      "value": 57.42142857142857,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "iaq",
+      "coordinates": { "latitude": 39.530853, "longitude": -76.186775 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1155510,
+      "location": "KatAir",
+      "parameter": "pressure",
+      "value": 1001.9872000000001,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": 42.356377, "longitude": -82.98438 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1155510,
+      "location": "KatAir",
+      "parameter": "temperature",
+      "value": 90,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "f",
+      "coordinates": { "latitude": 42.356377, "longitude": -82.98438 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68449,
+      "location": "Perch Ave.",
+      "parameter": "pressure",
+      "value": 977.9189999999999,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": 47.10787, "longitude": -119.26929 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68449,
+      "location": "Perch Ave.",
+      "parameter": "um003",
+      "value": 23.324,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 47.10787, "longitude": -119.26929 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68449,
+      "location": "Perch Ave.",
+      "parameter": "humidity",
+      "value": 56.86666666666667,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 47.10787, "longitude": -119.26929 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68449,
+      "location": "Perch Ave.",
+      "parameter": "um005",
+      "value": 6.056666666666667,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 47.10787, "longitude": -119.26929 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 68449,
+      "location": "Perch Ave.",
+      "parameter": "temperature",
+      "value": 64.63333333333334,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "f",
+      "coordinates": { "latitude": 47.10787, "longitude": -119.26929 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1123253,
+      "location": "Home1",
+      "parameter": "um010",
+      "value": 0.1475,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 49.23804, "longitude": -122.871574 },
+      "country": "CA",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1123253,
+      "location": "Home1",
+      "parameter": "temperature",
+      "value": 67.25,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "f",
+      "coordinates": { "latitude": 49.23804, "longitude": -122.871574 },
+      "country": "CA",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 1123253,
+      "location": "Home1",
+      "parameter": "um005",
+      "value": 1.5875000000000001,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 49.23804, "longitude": -122.871574 },
+      "country": "CA",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 220926,
+      "location": "Hartford City Mission",
+      "parameter": "humidity",
+      "value": 46.72727272727273,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 41.788574, "longitude": -72.687 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 220926,
+      "location": "Hartford City Mission",
+      "parameter": "um005",
+      "value": 5.628636363636365,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 41.788574, "longitude": -72.687 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 62982,
+      "location": "Casa Rudolph",
+      "parameter": "um005",
+      "value": 2.8886206896551725,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 38.088142, "longitude": -122.569565 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 296724,
+      "location": "DPE PA2 AQMN 34",
+      "parameter": "um005",
+      "value": 0.9641379310344826,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-04T05:00:00+11:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": -33.401573, "longitude": 149.57526 },
+      "country": "AU",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 372102,
+      "location": "Juliaca",
+      "parameter": "pressure",
+      "value": 645.2286206896553,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T13:00:00-05:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": -15.481228, "longitude": -70.12072 },
+      "country": "PE",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 233877,
+      "location": "La Salle",
+      "parameter": "um003",
+      "value": 4.8082142857142856,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 37.821285, "longitude": -122.21749 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 233752,
+      "location": "Del Dayo Riviera",
+      "parameter": "pressure",
+      "value": 1015.3633333333333,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": 38.590237, "longitude": -121.33648 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 320987,
+      "location": "San Onofre Outside",
+      "parameter": "um050",
+      "value": 0,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 34.061935, "longitude": -118.503235 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 70400,
+      "location": "Sunnyvale, CA (Seven Seas Park)",
+      "parameter": "pressure",
+      "value": 1015.9741379310345,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": 37.399544, "longitude": -122.01529 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 70400,
+      "location": "Sunnyvale, CA (Seven Seas Park)",
+      "parameter": "temperature",
+      "value": 69.75862068965517,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "f",
+      "coordinates": { "latitude": 37.399544, "longitude": -122.01529 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 220837,
+      "location": "Banja Luka - Nikole Pašića",
+      "parameter": "um003",
+      "value": 30.744782608695647,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T20:00:00+02:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 44.771805, "longitude": 17.197203 },
+      "country": "BA",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 224298,
+      "location": "Cottonwood wells",
+      "parameter": "pressure",
+      "value": 953.0171428571427,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": 47.79305, "longitude": -120.64904 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 224298,
+      "location": "Cottonwood wells",
+      "parameter": "temperature",
+      "value": 62.607142857142854,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "f",
+      "coordinates": { "latitude": 47.79305, "longitude": -120.64904 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 226194,
+      "location": "Conway, SC",
+      "parameter": "um003",
+      "value": 15.023103448275867,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 33.973495, "longitude": -78.99759 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69393,
+      "location": "532 Deframe Ct Golden, CO",
+      "parameter": "temperature",
+      "value": 68.33333333333333,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T12:00:00-06:00"
+      },
+      "unit": "c",
+      "coordinates": { "latitude": 39.72467, "longitude": -105.15414 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69395,
+      "location": "Schulties Rd",
+      "parameter": "um003",
+      "value": 6.432500000000002,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 37.118244, "longitude": -121.96298 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 69395,
+      "location": "Schulties Rd",
+      "parameter": "um005",
+      "value": 1.8267857142857145,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 37.118244, "longitude": -121.96298 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 72386,
+      "location": "Enchanted Knolls Shelley",
+      "parameter": "humidity",
+      "value": 56.733333333333334,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 37.9007, "longitude": -122.524796 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 72386,
+      "location": "Enchanted Knolls Shelley",
+      "parameter": "pressure",
+      "value": 1014.880333333333,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": 37.9007, "longitude": -122.524796 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 72386,
+      "location": "Enchanted Knolls Shelley",
+      "parameter": "temperature",
+      "value": 67.26666666666667,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "c",
+      "coordinates": { "latitude": 37.9007, "longitude": -122.524796 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 66919,
+      "location": "Codman Square Stanton",
+      "parameter": "um005",
+      "value": 3.9434482758620675,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 42.283714, "longitude": -71.07938 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 66919,
+      "location": "Codman Square Stanton",
+      "parameter": "um050",
+      "value": 0.0065517241379310365,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 42.283714, "longitude": -71.07938 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 66919,
+      "location": "Codman Square Stanton",
+      "parameter": "humidity",
+      "value": 41.06896551724138,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T14:00:00-04:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 42.283714, "longitude": -71.07938 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 66446,
+      "location": "Palomares-700",
+      "parameter": "humidity",
+      "value": 42.111111111111114,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 37.62825, "longitude": -121.94741 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 66446,
+      "location": "Palomares-700",
+      "parameter": "pressure",
+      "value": 982.9888888888886,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": 37.62825, "longitude": -121.94741 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 66446,
+      "location": "Palomares-700",
+      "parameter": "temperature",
+      "value": 72.77777777777777,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "c",
+      "coordinates": { "latitude": 37.62825, "longitude": -121.94741 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71058,
+      "location": "CARB_S_GBUAPCD_Shoshone",
+      "parameter": "um005",
+      "value": 0.835,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 35.979122, "longitude": -116.2722 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71058,
+      "location": "CARB_S_GBUAPCD_Shoshone",
+      "parameter": "um050",
+      "value": 0,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 35.979122, "longitude": -116.2722 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71058,
+      "location": "CARB_S_GBUAPCD_Shoshone",
+      "parameter": "humidity",
+      "value": 25,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 35.979122, "longitude": -116.2722 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 70867,
+      "location": "Heath Charnock Chorley",
+      "parameter": "um050",
+      "value": 0.010000000000000004,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T19:00:00+01:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 53.621494, "longitude": -2.59267 },
+      "country": "GB",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 70867,
+      "location": "Heath Charnock Chorley",
+      "parameter": "humidity",
+      "value": 60.357142857142854,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T19:00:00+01:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 53.621494, "longitude": -2.59267 },
+      "country": "GB",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 70867,
+      "location": "Heath Charnock Chorley",
+      "parameter": "pressure",
+      "value": 1005.3492857142857,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T19:00:00+01:00"
+      },
+      "unit": "mb",
+      "coordinates": { "latitude": 53.621494, "longitude": -2.59267 },
+      "country": "GB",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 71791,
+      "location": "SCAP_31",
+      "parameter": "temperature",
+      "value": 79.93333333333334,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "f",
+      "coordinates": { "latitude": 34.054523, "longitude": -118.15437 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 70854,
+      "location": "Hlepcha",
+      "parameter": "um003",
+      "value": 24.135833333333334,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T21:00:00+03:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 50.18222, "longitude": 30.201958 },
+      "country": "UA",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 70854,
+      "location": "Hlepcha",
+      "parameter": "um005",
+      "value": 6.905833333333334,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T21:00:00+03:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 50.18222, "longitude": 30.201958 },
+      "country": "UA",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 65485,
+      "location": "Stanford Place",
+      "parameter": "um005",
+      "value": 4.543571428571428,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 37.3657, "longitude": -121.98905 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 65485,
+      "location": "Stanford Place",
+      "parameter": "um050",
+      "value": 0.01,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 37.3657, "longitude": -121.98905 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 65485,
+      "location": "Stanford Place",
+      "parameter": "humidity",
+      "value": 38.07142857142857,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "%",
+      "coordinates": { "latitude": 37.3657, "longitude": -121.98905 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 929877,
+      "location": "Chabolyn Outside",
+      "parameter": "temperature",
+      "value": 73.7,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "c",
+      "coordinates": { "latitude": 37.85153, "longitude": -122.24456 },
+      "country": "NO",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 584147,
+      "location": "Presidio Hill School",
+      "parameter": "um003",
+      "value": 12.999999999999998,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 37.78868, "longitude": -122.45615 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    },
+    {
+      "locationId": 584147,
+      "location": "Presidio Hill School",
+      "parameter": "um005",
+      "value": 3.5965217391304347,
+      "date": {
+        "utc": "2023-10-03T18:00:00+00:00",
+        "local": "2023-10-03T11:00:00-07:00"
+      },
+      "unit": "particles/cm³",
+      "coordinates": { "latitude": 37.78868, "longitude": -122.45615 },
+      "country": "US",
+      "city": null,
+      "isMobile": false,
+      "isAnalysis": null,
+      "entity": "Community Organization",
+      "sensorType": "low-cost sensor"
+    }
+  ]
+}
