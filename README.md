@@ -4,7 +4,7 @@
 
 - This project aims to create a real-time air quality monitoring dashboard that retrieves data from the OpenAQ API. The backend is built using Node.js, TypeScript, and utilizes external APIs to gather air quality information from various locations around the world.
 
-- The frontend, written in React, provides an interactive and user-friendly interface for analyzing the collected data, the code can be found here:
+- The frontend, written in React, provides an interactive and user-friendly interface for analyzing the collected data, the code can be found here: https://github.com/emmanueluwa/air_quality_front
 
 ## Project Overview
 
@@ -26,4 +26,4 @@
 
 ## Acknowledgments
 
-- Special thanks to OpenAQ for providing the API and enabling access to valuable air quality data.
+- Special thanks to OpenAQ for providing the API and enabling access to valuable air quality data. https://openaq.org/
